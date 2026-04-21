@@ -25,4 +25,4 @@ I am a BCA student focused on building strong programming fundamentals and becom
 To become a skilled MERN Stack Developer and build real-world, scalable web applications.
 
 ### 📫 Contact
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/rayyan-2007
